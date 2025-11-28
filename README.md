@@ -1,2 +1,1 @@
-# 2023240001_Annisa-Luthfiyyah_BelajarLayoutVertical
-coba coba belajar membuat layout vertical
+# 2023240001_AnnisaLuthfiyyah_BelajarLayoutVertical
